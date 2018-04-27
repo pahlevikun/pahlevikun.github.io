@@ -1020,6 +1020,8 @@ blockquote {
         color: #55acee; }
       .mdl-layout__drawer .social-icons li a.linkedin-link:hover i {
         color: #007bb6; }
+        .mdl-layout__drawer .social-icons li a.github-link:hover i {
+          color: #ea4c89; }
       .mdl-layout__drawer .social-icons li a.dribbble-link:hover i {
         color: #ea4c89; }
       .mdl-layout__drawer .social-icons li a.instagram-link:hover i {
@@ -1225,6 +1227,8 @@ blockquote {
       color: #55acee; }
     .about-sec .social-icons li a.linkedin-link:hover i {
       color: #007bb6; }
+      .about-sec .social-icons li a.github-link:hover i {
+        color: #ea4c89; }
     .about-sec .social-icons li a.dribbble-link:hover i {
       color: #ea4c89; }
     .about-sec .social-icons li a.instagram-link:hover i {
@@ -1725,6 +1729,8 @@ blockquote {
       color: #55acee; }
     .footer-sec .social-icons li a.linkedin-link:hover i {
       color: #007bb6; }
+      .footer-sec .social-icons li a.github-link:hover i {
+        color: #ea4c89; }
     .footer-sec .social-icons li a.dribbble-link:hover i {
       color: #ea4c89; }
     .footer-sec .social-icons li a.instagram-link:hover i {

@@ -756,6 +756,13 @@ blockquote {
 						}
 					}
 				}
+				&.github-link {
+					&:hover {
+						i {
+							color: rgb(234,76,137);
+						}
+					}
+				}
 				&.linkedin-link {
 					&:hover {
 						i {
