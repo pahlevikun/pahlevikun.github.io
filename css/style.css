@@ -1845,23 +1845,11 @@ blockquote {
   height: 400px;
   background-size: cover !important;
   background-position: center !important; }
-.blog-detail .item:nth-child(1), .project-detail .item:nth-child(1) {
-  background: url(../img/gallery1.jpg); }
-.blog-detail .item:nth-child(2), .project-detail .item:nth-child(2) {
-  background: url(../img/gallery2.jpg); }
-.blog-detail .item:nth-child(3), .project-detail .item:nth-child(3) {
-  background: url(../img/gallery3.jpg); }
 
 .project-detail .carousel,
 .project-detail .carousel-inner,
 .project-detail .carousel-inner .item {
   height: 500px; }
-.project-detail .item:nth-child(1) {
-  background: url(../img/gallery4.jpg); }
-.project-detail .item:nth-child(2) {
-  background: url(../img/gallery5.jpg); }
-.project-detail .item:nth-child(3) {
-  background: url(../img/gallery6.jpg); }
 
 /****************************/
 /** Mediaqueries **/

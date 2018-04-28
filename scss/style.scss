@@ -1895,18 +1895,6 @@ blockquote {
 		background-size:cover!important;
 		background-position:center!important;
 	}
-	
-	.item:nth-child(1) {
-		background: url(../img/gallery1.jpg);
-	}
-
-	.item:nth-child(2) {
-		background: url(../img/gallery2.jpg);
-	}
-
-	.item:nth-child(3) {
-		background: url(../img/gallery3.jpg);
-	}
 }
 
 .project-detail {
@@ -1914,17 +1902,6 @@ blockquote {
 	.carousel-inner, 
 	.carousel-inner .item {
 		height: 500px;
-	}
-	.item:nth-child(1) {
-		background: url(../img/gallery4.jpg);
-	}
-
-	.item:nth-child(2) {
-		background: url(../img/gallery5.jpg);
-	}
-
-	.item:nth-child(3) {
-		background: url(../img/gallery6.jpg);
 	}
 }
 
