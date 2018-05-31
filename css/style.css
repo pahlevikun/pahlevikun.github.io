@@ -64,6 +64,13 @@ body {
   overflow-y: auto;
   overflow-x: hidden; }
 
+  .responsibility {
+    line-height: 1.5;
+    text-align:justify;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+  }
   
   .center-cropped {
     object-fit: none; /* Do not scale the image */
@@ -1508,6 +1515,8 @@ blockquote {
       position: relative; }
       .timeline > li > .timeline-panel .institution {
         color: #444; }
+        .timeline > li > .timeline-panel .institution {
+          color: #444; }
       .timeline > li > .timeline-panel .institution, .timeline > li > .timeline-panel .duration {
         display: block;
         font-size: 14px;
