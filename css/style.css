@@ -64,6 +64,14 @@ body {
   overflow-y: auto;
   overflow-x: hidden; }
 
+  
+  .center-cropped {
+    object-fit: none; /* Do not scale the image */
+    object-position: center; /* Center the image within the element */
+    height: 100px;
+    width: 100px;
+  }
+
 /* Mozilla based browsers */
 ::-moz-selection {
   background: #338fff;
