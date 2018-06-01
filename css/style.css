@@ -1363,6 +1363,9 @@ blockquote {
   opacity: 0;
   z-index: 3; }
 
+  /* Blog Section */
+
+
   .scrolling-wrapper-flexbox {
     display: flex;
     flex-wrap: nowrap;
@@ -1372,6 +1375,7 @@ blockquote {
 
   .card {
     flex: 0 0 auto;
+    width: 322px;
   }
 
   arrow {
@@ -1386,7 +1390,6 @@ blockquote {
       -webkit-transform: rotate(-45deg);
   }
 
-  
 
 /*Skills Sec*/
 .skills-sec .progress-cat {
