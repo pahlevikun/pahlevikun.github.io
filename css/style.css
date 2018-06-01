@@ -78,6 +78,7 @@ body {
     height: 100px;
     width: 100px;
   }
+  
 
 /* Mozilla based browsers */
 ::-moz-selection {
@@ -1362,6 +1363,31 @@ blockquote {
   opacity: 0;
   z-index: 3; }
 
+  .scrolling-wrapper-flexbox {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .card {
+    flex: 0 0 auto;
+  }
+
+  arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+  
+  .right {
+      transform: rotate(-45deg);
+      -webkit-transform: rotate(-45deg);
+  }
+
+  
+
 /*Skills Sec*/
 .skills-sec .progress-cat {
   padding-bottom: 11px;
@@ -1654,6 +1680,8 @@ blockquote {
     font-size: 20px; }
   .blog-sec .mdl-card .mdl-card__actions .blog-post-date {
     font-size: 14px; }
+
+/*Scroll Blogs*/
 
 /*Reference Sec*/
 .reference-sec .owl-theme .owl-controls {
