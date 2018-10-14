@@ -71,14 +71,14 @@ body {
     font-size: 14px;
     font-style: normal;
   }
-  
+
   .center-cropped {
     object-fit: none; /* Do not scale the image */
     object-position: center; /* Center the image within the element */
     height: 100px;
     width: 100px;
   }
-  
+
 
 /* Mozilla based browsers */
 ::-moz-selection {
@@ -1384,7 +1384,7 @@ blockquote {
     display: inline-block;
     padding: 3px;
   }
-  
+
   .right {
       transform: rotate(-45deg);
       -webkit-transform: rotate(-45deg);
