@@ -7,7 +7,7 @@ const RESOURCES = {
 "/js/main.js": "dff22b391af49524e901d377bda14f05",
 "/js/vendor/modernizr-2.6.2.min.js": "42306a279a9e831515347ae319181cd1",
 "/js/vendor/jquery-1.9.1.min.js": "663628f795cb62444143fde1ebdf2b5b",
-"/main.dart.js": "b923a1f139b5e8c924f07ed74234c4a0",
+"/main.dart.js": "2ce311356d552280139839bcc61da6d9",
 "/php/mailer.php": "8ff95e26c92b2c92c1dafd438a9d4b79",
 "/favicon.png": "8d83b113418828c38abb688a399c7d5f",
 "/icons/Icon-192.png": "3096f4e05ac8951c7479440d2b1e9f30",
