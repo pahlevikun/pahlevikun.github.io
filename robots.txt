@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://pahlevikun.github.io/sitemap.xml
